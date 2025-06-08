@@ -1,7 +1,8 @@
 # 🛍️ Waseet – Online Marketplace
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/61f4de26-ed82-4fd0-9957-9cdfcacb38c0" width="300" alt="Waseet Logo"/>
+![logo](https://github.com/user-attachments/assets/1ff4ba7d-45e2-40b8-9e4d-805d2194719b)
+
 </p>
 
 ---
@@ -41,12 +42,4 @@
 
 ---
 
-## 🔮 Planned Enhancements
 
-Future updates may include:
-
-- ⭐ **Seller Performance Ratings**  
-- 🔎 **Advanced Search & Filters**  
-- 📱 **Mobile App Experience**  
-
----

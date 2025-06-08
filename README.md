@@ -35,9 +35,9 @@
 
 ## 💡 Platform Benefits
 
-- ✅ Builds trust between buyers and sellers through confirmation-based transactions  
-- ✅ Reduces potential disputes and misunderstandings  
-- ✅ Simplifies the buying and selling journey with a user-first design
+-  Makes it easy for sellers to showcase their products professionally
+-  Enables users to browse products quickly and efficiently
+-  Simplifies the buying and selling process with a user-focused design
 
 ---
 

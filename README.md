@@ -1,8 +1,7 @@
 # 🛍️ Waseet – Online Marketplace
 
 <p align="center">
-![logo](https://github.com/user-attachments/assets/1ff4ba7d-45e2-40b8-9e4d-805d2194719b)
-
+  <img src="https://github.com/user-attachments/assets/1ff4ba7d-45e2-40b8-9e4d-805d2194719b" width="300" alt="Waseet Logo"/>
 </p>
 
 ---
@@ -41,5 +40,6 @@
 - ✅ Simplifies the buying and selling journey with a user-first design
 
 ---
+
 
 
